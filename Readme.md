@@ -2,7 +2,7 @@
 
 Welcome to **Makers Tech**, your one-stop eCommerce platform for the latest electronics and gadgets. This minimalist, dark-themed website is designed to provide users with a seamless shopping experience while maintaining a sleek and modern aesthetic.
 
-[**Live Demo**](https://rajveermakkar.github.io/makerstech/)
+[**Live Demo**](https://aditikaur0801.github.io/makerstech/)
 
 ---
 
@@ -57,6 +57,5 @@ If you like this project, please consider giving it a ⭐ on GitHub.
 📧 Contact
 For inquiries, feel free to reach out:
 
-Email: rajveermakkar08@gmail.com
 Website: Makers Tech 
 
